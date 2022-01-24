@@ -1,4 +1,21 @@
 img#MApic {
 	width: 900px;
+	 display: block;
+	 margin: auto;
+}
 
+body {
+	background-color: dimgrey;
+}
+
+h1 {
+	color: RGB(155, 35, 53);
+	 text-align: center;
+	 border: solid; 3px; black;
+	 background-color: white;
+}
+
+p {
+	color: white;
+	 text-align: center;
 }
